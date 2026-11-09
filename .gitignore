@@ -1,0 +1,12 @@
+# Publish ONLY the website files to the public GitHub repo.
+# Internal docs (PRD.md, COPY-REVIEW.md, MEMORY.md, CLAUDE.md), serve.ps1 and .claude/ stay local.
+/*
+!/.gitignore
+!/.nojekyll
+!/index.html
+!/candidates.html
+!/employers.html
+!/about.html
+!/css/
+!/js/
+!/assets/
